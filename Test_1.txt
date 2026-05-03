@@ -1,0 +1,6 @@
+How much is 2+2?
+5
+What is the X in "X + 1 = 3"?
+2
+How much is Pi? 
+3.14
